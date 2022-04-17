@@ -31,7 +31,7 @@ pipeline {
         }
         stage('4-Celebrate') {
             steps {
-                echo "CONGRATULYACIYA!"
+                echo "CONGRATULATIONS!"
             }
         }	
     }
